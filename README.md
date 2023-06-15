@@ -227,7 +227,8 @@ WHERE totals IS NULL OR totals = '';
 Now that we've completed our data cleaning, we can move towards conducting descriptive analysis as well as aggregations. Please note that the specific techniques and methods employed for data validation may vary depending on the characteristics and requirements of the dataset.
 
 <br>
-####Descriptive Analysis
+
+### Descriptive Analysis
 ---
 
 In this section, let's perform a descriptive analysis of the NICS Firearm Background Checks dataset, focusing on the distribution of background check totals across various categories. By examining the dataset's key categories such as months, states and permits we aim to gain insights into the patterns and variations in background check totals.
